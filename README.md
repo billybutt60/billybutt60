@@ -28,13 +28,13 @@
 
 ### What I work on
 
-Production LLM systems: retrieval that returns the right chunk, agent graphs that recover from failure instead of looping, and gateways that make token spend visible before the invoice arrives.
+LLM systems: retrieval that returns the right chunk, agent graphs that recover from failure instead of looping, and gateways that make token spend visible before the invoice arrives.
 
-Currently building agentic systems with LangChain and LangGraph on a remote contract. Previously LLM backend and infrastructure work at xAI and Turing, and full-stack product engineering at Educative.
+Currently building agentic systems with LangChain and LangGraph on a remote contract. Previously LLM backend and infrastructure work at Arc and Turing, and full-stack product engineering at Educative.
 
 ---
 
-### Selected work
+### Main Projects
 
 | Project | What it demonstrates |
 |---|---|
