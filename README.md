@@ -34,7 +34,7 @@ Currently building agentic systems with LangChain and LangGraph on a remote cont
 
 ---
 
-### Main Projects
+### Projects
 
 | Project | What it demonstrates |
 |---|---|
