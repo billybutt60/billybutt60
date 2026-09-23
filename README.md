@@ -34,16 +34,6 @@ Currently building agentic systems with LangChain and LangGraph on a remote cont
 
 ---
 
-### Projects
-
-| Project | What it demonstrates |
-|---|---|
-| **[Hybrid RAG Pipeline](https://github.com/billybutt60/rag-pipeline-fastapi)** | Dense + BM25 retrieval fused with RRF, and an evaluation harness that picks chunk size from recall@k instead of intuition |
-| **[LangGraph Supervisor with Rollback](https://github.com/billybutt60/langgraph-supervisor-rollback)** | Journalled state mutations so failed agent steps are reverted individually — valid work from unrelated steps survives |
-| **[LLM Gateway](https://github.com/billybutt60/llm-gateway-observability)** | Per-tenant token budgets enforced with reservations, provider failover with circuit breaking, Prometheus + Grafana |
-
-Each repo has a working test suite, a runnable demo, and an honest limitations section.
-
 ### Product work
 
 Full products I designed and built end to end. Source is private — each link is a case study with screenshots, architecture notes and a walkthrough video.
@@ -53,6 +43,16 @@ Full products I designed and built end to end. Source is private — each link i
 | **[QueryLens](https://github.com/billybutt60/querylens)** | Text-to-SQL analytics with real human-in-the-loop checkpoints — the LangGraph pipeline pauses for clarification and for review of risky SQL, then resumes by thread id |
 | **[ShelfSense](https://github.com/billybutt60/shelfsense)** | AI planogram studio for retail shelves — plain-English merchandising rules parsed into typed constraints, solved by a deterministic Python optimizer that explains every placement |
 | **[Trailmate](https://github.com/billybutt60/trailmate)** | Conversational commerce — describe the trip, get products or a complete gear bundle in the cart; LangGraph agents over Qdrant vector search |
+
+### Projects
+
+| Project | What it demonstrates |
+|---|---|
+| **[Hybrid RAG Pipeline](https://github.com/billybutt60/rag-pipeline-fastapi)** | Dense + BM25 retrieval fused with RRF, and an evaluation harness that picks chunk size from recall@k instead of intuition |
+| **[LangGraph Supervisor with Rollback](https://github.com/billybutt60/langgraph-supervisor-rollback)** | Journalled state mutations so failed agent steps are reverted individually — valid work from unrelated steps survives |
+| **[LLM Gateway](https://github.com/billybutt60/llm-gateway-observability)** | Per-tenant token budgets enforced with reservations, provider failover with circuit breaking, Prometheus + Grafana |
+
+Each repo has a working test suite, a runnable demo, and an honest limitations section.
 
 ---
 
