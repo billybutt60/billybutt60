@@ -50,9 +50,9 @@ Full products I designed and built end to end. Source is private — each link i
 
 | Project | What it is |
 |---|---|
-| **[QueryLens](https://github.com/billybutt60/querylens-case-study)** | Text-to-SQL analytics with real human-in-the-loop checkpoints — the LangGraph pipeline pauses for clarification and for review of risky SQL, then resumes by thread id |
-| **[ShelfSense](https://github.com/billybutt60/shelfsense-case-study)** | AI planogram studio for retail shelves — plain-English merchandising rules parsed into typed constraints, solved by a deterministic Python optimizer that explains every placement |
-| **[Trailmate](https://github.com/billybutt60/trailmate-case-study)** | Conversational commerce — describe the trip, get products or a complete gear bundle in the cart; LangGraph agents over Qdrant vector search |
+| **[QueryLens](https://github.com/billybutt60/querylens)** | Text-to-SQL analytics with real human-in-the-loop checkpoints — the LangGraph pipeline pauses for clarification and for review of risky SQL, then resumes by thread id |
+| **[ShelfSense](https://github.com/billybutt60/shelfsense)** | AI planogram studio for retail shelves — plain-English merchandising rules parsed into typed constraints, solved by a deterministic Python optimizer that explains every placement |
+| **[Trailmate](https://github.com/billybutt60/trailmate)** | Conversational commerce — describe the trip, get products or a complete gear bundle in the cart; LangGraph agents over Qdrant vector search |
 
 ---
 
